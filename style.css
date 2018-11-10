@@ -1,0 +1,35 @@
+.wrapper{
+    width:600px;
+    background:gray;
+    margin:0 auto 0 auto 
+}
+.heading{
+    height:100px;
+    background:rebeccapurple;
+ padding:20px;
+ text-align: center;
+}
+.navigation{
+    height:50px;
+    background:lightgreen;
+}
+.maincontent{
+    min-height:400px;
+    background: goldenrod;
+    width:400px;
+    float: left;
+}
+.sidebar{
+    min-height:400px;
+    background: wheat;
+    width:200px;
+    float: right;
+}
+.footer{
+    clear: both;
+    height:50px;
+    background:black;
+    color: aquamarine;
+    text-align: center;
+    padding: 10px;
+}
